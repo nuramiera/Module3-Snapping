@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.socket.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\Users\\Nur Amiera\\Documents\\GitHub\\Module3-Snapping\\[07.10] Module 3 - IKEA\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "[07.10] Module 3 - IKEA [Testing]"
+        }
+      }
+    }
+  ]
+}
